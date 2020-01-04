@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  8 12:55:29 2019
-
-@author: Jiwitesh_Sharma
-"""
 # Importing the necessary Libraries
 from flask_cors import CORS,cross_origin
 from imagescrapperservice.ImageScrapperService import ImageScrapperService
